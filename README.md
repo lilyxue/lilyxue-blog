@@ -1,3 +1,5 @@
 @点头猪
 ==================
-> 这里只有测试Demo和未公开的项目~
+> Meeting you was fate, becoming your friend was a choice, but falling in love with you was beyond my control.
+
+* [border-radius Android bug](https://github.com/lilyxue/lilyxue-blog/issues/1)
